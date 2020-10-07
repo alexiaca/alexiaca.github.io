@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 full_rebuild: true
 name: Gridster
 description: the material experience for jekyll
@@ -121,3 +122,6 @@ prose:
           label: "YouTube Video ID"
           help: "Set post type to youtube in order for this to work. Do not set featured image, as the youtube video thumbnail will be used"
           type: "text"
+=======
+theme: jekyll-theme-architect
+>>>>>>> f2265f859f81036c67b8166199f6fe53316b980e
